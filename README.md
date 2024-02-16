@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 **About me:**
-✨ I am fourth year Mathematics and Bioinformatics student from MIMUW.
-✨ I am interested in applications of mathematics and data science in medicine and biology.
-✨ Now I am focused on learning statistical data analysis and ML.
+✨ I am fourth year Mathematics and Bioinformatics student from MIMUW.  
+✨ I am interested in applications of mathematics and data science in medicine and biology.  
+✨ Now I am focused on learning statistical data analysis and ML.  
 
 <!--
 **zgruba/zgruba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
