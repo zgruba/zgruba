@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 **About me:**  
-✨ I am fourth year Mathematics and Bioinformatics student from MIMUW.  
+✨ I am fifth year Mathematics and Bioinformatics student from MIMUW.  
 ✨ I am interested in applications of mathematics and data science in medicine and biology.  
 ✨ Now I am focused on learning statistical data analysis and ML.  
 
